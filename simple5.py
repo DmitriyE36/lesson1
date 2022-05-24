@@ -1,0 +1,5 @@
+print("float('1'):", float('1'))
+print("int('2.5'):", int(float('2.5')))
+print("bool(1):", bool(1))
+print("bool(''):", bool(''))
+print("bool(0):", bool(0))
